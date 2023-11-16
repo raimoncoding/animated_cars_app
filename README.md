@@ -29,6 +29,7 @@ The module focuses on several key aspects of Python GUI development using Tkinte
 Clone the repository or download the `animated_cars_app.py` file to your local machine.
 
 ```sh
-git clone https://github.com/your-username/dynamic-car-animation.git
+
+git clone https://github.com/raimoncoding/animated_cars_app.git
 cd dynamic-car-animation
 python animated_cars_app.py
